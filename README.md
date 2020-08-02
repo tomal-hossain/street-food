@@ -1,5 +1,6 @@
 ## street-food
-Deployed Angular application.
+Deployed Angular application as github pages.
+Url: https://tomal-hossain.github.io/street-food/
 
 # Angular Topics:
   * Modules, Component
